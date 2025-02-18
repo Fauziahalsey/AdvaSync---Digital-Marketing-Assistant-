@@ -41,7 +41,7 @@ AdvaSync-Marketing/
 └── README.md           # (Optional documentation)
 
 
-🚀 How to Set Up & Run:
+***🚀 How to Set Up & Run:
 Navigate to backend folder
 
 cd backend
